@@ -43,4 +43,4 @@ src/modeling/data/*log
 
 src/modeling/outputs/*
 
-
+src/collecting_data/data_analysis/transformed_tourapi_*.json
